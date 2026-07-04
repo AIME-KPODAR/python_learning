@@ -1,0 +1,7 @@
+La logique d'implémentation:
+
+Créer :
+Une liste comportant le mot mystère <--- aléatoire ou non
+Une variable pour compter le nombre d'essai de l'utiisateur
+Une variable pour limiter le nombre de possibilité d'essai
+Une liste pour enregistrer les lettres trouvés par l'utiisateur

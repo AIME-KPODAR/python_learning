@@ -1,0 +1,11 @@
+Wazuh authentification 
+
+User: admin
+Password: 9GgDl4*7fdgKb++T0g9UC1lk5szBZO46
+
+linux mite
+parote
+lab gnsl
+glpi
+anduin os
+integration avec surcata
